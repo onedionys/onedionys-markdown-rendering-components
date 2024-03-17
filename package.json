@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-markdown-rendering-components",
+  "version": "1.0.0",
+  "description": "One Dionys (Markdown Rendering Components) - Components for rendering and displaying content in Markdown format, enabling the use of rich and flexible text formats.",
+  "main": "src/markdownRenderer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-markdown-rendering-components.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "markdown-rendering-components"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-markdown-rendering-components/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-markdown-rendering-components#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
